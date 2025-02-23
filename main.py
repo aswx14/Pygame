@@ -3,7 +3,7 @@ import sys
 import random
 
 pygame.init()
-#Example second commit
+#Example thrid commit
 # Constants
 WIDTH, HEIGHT = 800, 600
 GROUND_HEIGHT = 100
